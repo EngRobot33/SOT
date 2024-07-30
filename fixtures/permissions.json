@@ -1,0 +1,26 @@
+[
+  {
+    "model": "user.permission",
+    "pk": 1,
+    "fields": {
+      "level": 1,
+      "description": "Basic Level"
+    }
+  },
+  {
+    "model": "user.permission",
+    "pk": 2,
+    "fields": {
+      "level": 2,
+      "description": "Intermediate Level"
+    }
+  },
+  {
+    "model": "user.permission",
+    "pk": 3,
+    "fields": {
+      "level": 3,
+      "description": "Advanced Level"
+    }
+  }
+]

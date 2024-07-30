@@ -1,0 +1,35 @@
+[
+  {
+    "model": "user.user",
+    "pk": 1,
+    "fields": {
+      "email": "user1@django.dev",
+      "username": "user1",
+      "password": "pbkdf2_sha256$720000$7YPaxbWAw9CjM8tBjsfRTy$oatSY1MQ6394O3ZMkySYvGJfS5V68ohCpzWKwLuegQI=",
+      "permission": 1,
+      "is_email_verified": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 2,
+    "fields": {
+      "email": "user2@django.dev",
+      "username": "user2",
+      "password": "pbkdf2_sha256$720000$hnb01rR8SGsf5oWCdVbZ7x$QsEVC8nmyAwQMCPB/yaEd2IOlVQpJNoR3BrU3YV12gE=",
+      "permission": 2,
+      "is_email_verified": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 3,
+    "fields": {
+      "email": "user3@django.dev",
+      "username": "user3",
+      "password": "pbkdf2_sha256$720000$JZgwy73WysiwkC0w6Ll7lm$zZQdNRUccMsFn1meQRvrd0255NQMJi2cwJRJTydnAI0=",
+      "permission": 3,
+      "is_email_verified": true
+    }
+  }
+]
